@@ -67,4 +67,5 @@ El modelo de Random Forest fue el que dió un mejor resultado en comparación co
 *	**Gradient Boosting** : MAE = 37.3%, R2 = 77.8%
 
 ## Area de mejora a futuro
-Como área de mejora para el proyecto sería bueno elaborar una API mediante flask para poder utilizar dicho mdelo con nuevos datos de una propiedad de la que se desee saber su valor medio y así poder ayduar a la compra/venta de dicha propiedad.
+* Sería bueno elaborar una API mediante flask para poder utilizar dicho mdelo con nuevos datos de una propiedad de la que se desee saber su valor medio y así poder ayduar a la compra/venta de dicha propiedad.
+* Utilizar datos más actualizados de las viviendas ya que este es un dataset antiguo.
