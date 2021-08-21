@@ -19,6 +19,20 @@
  year={2011}
 }
 
+# Explicación de datos utilizados
+El dataset consta de 20640 filas y 10 columnas (o variables):
+
+longitude: Valor que determina que tan al Oeste está a vivienda; un número mayor estaría más al Oeste
+latitude: Valor que determina que tan al Norte está la vivienda; un número mayor estaría más al Norte
+housingMedianAge: Edad media de una casa, un menor número indicaría una propiedad más nueva
+totalRooms: Número total de habitaciones
+totalBedrooms: Número total de dormitorios
+population: Número total de población viviendo en el la urbanización
+households: Total número de familias o grupo de personas viviendo en la misma casa
+medianIncome: Media de ingresos por unidad familiar (medida en dolares americanos $)
+medianHouseValue: Valor medio de una vicienda (medida en dolares americanos $)
+oceanProximity: Ubicación de la casa con respecto al oceano
+
 ## Aálisis exploratorio de los datos (EDA)
 Analicé la distribución de los datos, la correlación entre ellos y las estadisticas descriptivas de las variables numericas. A continuación podeis ver algunas de los gráficos obtenidos. 
 
