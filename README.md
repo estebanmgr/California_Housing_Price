@@ -59,7 +59,7 @@ Despues ed importar el dataset fue necesario limpiarlo para que el modelo pueda 
 
 ## Creando el modelo 
 
-Primero realicé un escalado de las vriables con dos métodos, de este modo se puede evidenciar que tanto puede afectar el escalado al resultado de los modelos, también realice una división del dataset en conjunto de entrenamiento y evaluación con un tamaño de muestra de evaluación de un 25%.   
+Primero realicé un escalado de las variables con dos métodos, de este modo se puede evidenciar que tanto puede afectar el escalado al resultado de los modelos, también realice una división del dataset en conjunto de entrenamiento y evaluación con un tamaño de muestra de evaluación de un 25%.   
 
 Prové con varios modelos y evalue los resultados utilizando los valores de Score, Mean Absolute Error y R2 error.   
 
